@@ -1,5 +1,7 @@
 # ExTra
 
+Supplementary material [here](AAMAS__Supplementary_Material.pdf).
+
 Use `pip install -r requirements.txt` to install all the dependencies.
 
 Go to the pyemd folder and use `pip install -e .` for installing pyemd.
