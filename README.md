@@ -1,6 +1,6 @@
 # ExTra
 
-Supplementary material [here](AAMAS__Supplementary_Material.pdf).
+Supplementary material [here](supplementary.pdf).
 
 Use `pip install -r requirements.txt` to install all the dependencies.
 
